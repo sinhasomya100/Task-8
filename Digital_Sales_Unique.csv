@@ -1,0 +1,61 @@
+Order ID,Order Date,Product,Category,Region,Sales,Profit
+35e8579a-7aaf-4e89-9fb7-97fab7d6467b,2024-06-29,Webinar: Finance 101,Finance,Australia,91.19,63.05
+ade9b2b4-efdd-45f8-8fa3-4266ccfdba9b,2025-01-26,Software Tool: Budget Tracker,Health & Wellness,USA,192.02,59.28
+19fbeb1d-9edf-43da-acf5-5b158b53031d,2024-04-27,Webinar: Finance 101,Education,Canada,48.69,24.75
+126cbc8f-3888-4479-91eb-cd49428a1c22,2025-03-09,Online Course: Data Science,Education,UK,90.74,27.9
+2e295065-6fa2-41e9-99ac-dd984d125e7f,2024-12-26,Template Pack: Resume Builder,Finance,USA,85.3,36.33
+98b33c6e-0a14-490a-b795-e98680ee526e,2024-05-12,Template Pack: Resume Builder,Education,UK,288.75,156.8
+3308fb2e-642a-4d48-bcfc-fa81b306d700,2024-05-28,Template Pack: Resume Builder,Health & Wellness,Canada,136.28,88.39
+78601602-bb4a-46cb-a786-ab375bca47be,2024-07-29,Software Tool: Budget Tracker,Finance,India,180.27,54.72
+2b5f6932-91dc-49ef-ab21-a3f6e6fd68e8,2025-03-10,Webinar: Finance 101,Productivity,India,107.88,48.21
+c470f0e7-f76f-4fb8-b412-fc12ac322c12,2025-01-14,Subscription: Fitness App,Productivity,USA,20.34,8.3
+d86dbf11-2880-4c5d-ad1b-8f60c9e4dab2,2024-05-11,Webinar: Finance 101,Productivity,India,124.49,64.66
+1e01a934-402d-4baf-878b-9f6b57a1cb71,2024-06-20,Software Tool: Budget Tracker,Education,UK,221.85,149.42
+2cc0f859-aa65-44ab-b13b-7e05ebe21368,2024-12-06,Subscription: Fitness App,Finance,UK,221.31,93.19
+e66cd36e-68ef-4f5f-ae68-690a78bc7175,2024-04-24,Software Tool: Budget Tracker,Productivity,UK,41.51,21.77
+4fbaecc0-eae2-425e-8233-9e23dff3334b,2024-11-26,Webinar: Finance 101,Health & Wellness,Canada,253.85,175.28
+a859890c-d670-4668-a37e-0edc5b6e4ae7,2024-12-27,Software Tool: Budget Tracker,Education,UK,43.64,21.78
+032f06ca-b0d9-42aa-8f83-7ef727460f22,2024-07-25,Webinar: Finance 101,Productivity,USA,223.08,146.73
+bd30291a-55fe-408e-943e-2e04bdd7d19b,2024-10-13,Template Pack: Resume Builder,Health & Wellness,India,35.21,21.94
+3d792fa1-2284-47a4-87e7-f5938b5885ca,2024-05-06,E-book: AI for Beginners,Finance,India,121.6,41.25
+9c31d9b2-5a2b-445b-bb59-051bf40048d7,2025-02-08,Software Tool: Budget Tracker,Productivity,Australia,276.84,170.34
+f2686baa-971c-402d-9bf4-9c04ac642b4c,2024-08-08,E-book: AI for Beginners,Health & Wellness,India,116.82,81.23
+21e15094-9efe-4464-9a90-f534a23d4c9d,2025-03-31,Software Tool: Budget Tracker,Finance,UK,65.66,22.72
+6a174c1c-bf9c-4545-a355-18f74f6fa985,2025-01-21,Template Pack: Resume Builder,Health & Wellness,USA,68.49,34.17
+98363189-0063-442f-94aa-451ca69cfb85,2025-03-06,Template Pack: Resume Builder,Finance,UK,22.21,15.08
+3d4a5d51-28fa-4d04-959b-5975b2d650af,2024-07-02,E-book: AI for Beginners,Finance,India,67.41,30.42
+b5d97ef7-60ef-4471-b2b8-ff39a32c9b6f,2024-07-14,E-book: AI for Beginners,Finance,Australia,296.72,205.69
+6a1689ad-dfe1-4307-9172-5f0aac7c8803,2025-03-24,Template Pack: Resume Builder,Health & Wellness,India,207.18,134.89
+9145de05-b3ab-4b2c-9f26-f51766faf989,2024-05-01,Software Tool: Budget Tracker,Productivity,Canada,299.47,165.91
+0bf9c0ef-b581-4b74-a985-ab61c5adf681,2024-09-28,E-book: AI for Beginners,Finance,India,108.66,74.43
+b3969057-425c-4200-905a-da6b720299e3,2024-06-22,E-book: AI for Beginners,Productivity,UK,162.28,105.45
+7cbd7025-e28b-49ff-870f-084c7244f536,2024-06-19,Software Tool: Budget Tracker,Finance,Australia,179.05,105.15
+0004884c-c167-433f-9a9e-43108fb83bab,2025-04-06,E-book: AI for Beginners,Education,Canada,159.79,106.45
+4fe30c9a-5371-4f57-be9c-f84f09f6048f,2025-03-28,Online Course: Data Science,Finance,USA,21.78,6.67
+d29dc5df-cf1d-4110-8cc3-6d8c77863fe5,2025-03-10,Online Course: Data Science,Productivity,Canada,242.19,156.81
+3020da5c-6a46-421a-8ffa-6cddf963a7ef,2025-03-24,Subscription: Fitness App,Productivity,Canada,120.85,61.87
+fa83ada4-a212-4ac5-b689-a4a5ffda0336,2024-11-18,Template Pack: Resume Builder,Education,USA,240.3,121.88
+fca05536-2169-4f82-b9bd-ee2dd663049d,2024-05-21,Template Pack: Resume Builder,Education,Australia,133.65,80.44
+6ae04d52-adb3-48cb-b315-8c0c66dd7794,2024-04-24,Software Tool: Budget Tracker,Health & Wellness,UK,255.19,175.8
+b7a28e0a-03a8-4879-b6a9-8d7400de59f5,2024-08-19,E-book: AI for Beginners,Finance,Australia,200.53,60.18
+acfebb4b-d29e-4693-baf1-501b009a815b,2025-02-06,Subscription: Fitness App,Productivity,India,175.38,75.95
+1e707c52-30c1-4b6a-9908-65159cb017c1,2024-11-10,Webinar: Finance 101,Productivity,Canada,234.02,106.17
+4d6b234f-dfa7-46ed-b2d1-f81ba636425c,2024-12-11,Online Course: Data Science,Education,Canada,195.89,68.74
+19a5711b-2ea6-4b99-ba7f-f8bfb044284a,2024-08-05,E-book: AI for Beginners,Productivity,UK,283.14,139.46
+a0acf4c9-658d-417e-ac3a-a314da9bb017,2024-10-20,Subscription: Fitness App,Health & Wellness,India,217.98,124.12
+73f660d8-e9f4-4cc0-8653-a5600597aab6,2024-05-20,Software Tool: Budget Tracker,Productivity,India,20.2,9.83
+41a93f90-dc82-4527-9da3-b7e2cad6e514,2025-02-23,E-book: AI for Beginners,Education,Canada,146.56,52.84
+a699bae0-d138-4150-8557-716aa7502a81,2024-06-09,Template Pack: Resume Builder,Finance,USA,103.93,60.28
+27896389-df32-47fd-9d77-ce4058d87776,2024-12-25,Software Tool: Budget Tracker,Finance,UK,237.19,144.92
+0a68e88e-0ad4-4415-84c1-4982d9ead926,2024-08-05,Subscription: Fitness App,Education,USA,213.24,116.37
+50910bdc-8ef0-46d4-8279-b14dae55cdff,2024-07-07,Template Pack: Resume Builder,Education,UK,216.95,90.81
+d974c146-e8ec-41b3-9145-91aef03d866a,2024-09-08,Webinar: Finance 101,Health & Wellness,India,275.9,179.06
+b38a05fb-f611-44ce-bfc7-4ca9d8ab0b30,2024-05-05,E-book: AI for Beginners,Finance,USA,236.81,113.16
+a4e695c9-b65d-4226-be96-9cf3a7c5cb87,2024-12-10,Webinar: Finance 101,Health & Wellness,India,238.97,78.89
+5f58d5b5-6f79-4959-a3e0-4b3b756b0715,2025-04-04,Software Tool: Budget Tracker,Education,USA,84.06,26.11
+6025f0ae-3535-4579-ada4-4da189b5b368,2025-03-23,Online Course: Data Science,Finance,Australia,37.11,23.3
+26a97465-2371-4a2c-8247-145f4a814d53,2024-12-03,Subscription: Fitness App,Health & Wellness,Australia,98.54,34.03
+5e00ea6d-ca24-4e4d-9667-2017555a4085,2024-08-02,E-book: AI for Beginners,Health & Wellness,Canada,281.37,131.19
+9edb95f2-c787-4dfb-9697-f17c17fd3736,2025-01-23,Online Course: Data Science,Health & Wellness,USA,222.94,69.62
+2640211e-29f2-43c7-8505-f4f60a8c46c7,2024-05-02,Template Pack: Resume Builder,Health & Wellness,Canada,130.94,65.29
+fd42f697-6511-4656-9c64-60364a1eb1b7,2024-12-01,E-book: AI for Beginners,Productivity,UK,112.23,39.12
