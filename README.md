@@ -1,6 +1,7 @@
 # 📊 Digital Sales Dashboard – Power BI  
 📁 Project: Internship Task 8 – Sales Dashboard
-![image](https://github.com/user-attachments/assets/f1803bd6-8842-4cbc-914b-c68e7a214b76)
+![image](https://github.com/user-attachments/assets/a59fc084-70f0-4543-9634-ac3e03f7c0ef)
+
 
 
 ---
