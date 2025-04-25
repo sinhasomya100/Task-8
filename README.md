@@ -9,7 +9,7 @@
 | `Task 8.pbix`                          | Power BI project file with all visualizations       |
 | `TASK_8_DA.pdf`                        | Internship task description for Task 8              |
 | `Interactive Digital Sales Dashboard.pdf`  | Well-written insights extracted from the dashboard made using canva |
-| `README.md`                            | Overview and documentation of the project           |
+| `README.md`                            | Overview and documentation of the project +Interview Q/A    |
 
 ---
 ![image](https://github.com/user-attachments/assets/a59fc084-70f0-4543-9634-ac3e03f7c0ef)
