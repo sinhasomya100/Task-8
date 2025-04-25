@@ -1,5 +1,17 @@
 # 📊 Digital Sales Dashboard – Power BI  
 📁 Project: Internship Task 8 – Sales Dashboard
+
+## 📁 Files in this Repository
+
+| File Name                              | Description                                         |
+|---------------------------------------|-----------------------------------------------------|
+| `Digital_Sales_Unique.csv`            | Cleaned dataset used to build the dashboard         |
+| `Task 8.pbix`                          | Power BI project file with all visualizations       |
+| `TASK_8_DA.pdf`                        | Internship task description for Task 8              |
+| `Interactive Digital Sales Dashboard.pdf`  | Well-written insights extracted from the dashboard made using canva |
+| `README.md`                            | Overview and documentation of the project           |
+
+---
 ![image](https://github.com/user-attachments/assets/a59fc084-70f0-4543-9634-ac3e03f7c0ef)
 
 
@@ -44,17 +56,7 @@ It enables users to:
 
 ---
 
-## 📁 Files in this Repository
 
-| File Name                              | Description                                         |
-|---------------------------------------|-----------------------------------------------------|
-| `Digital_Sales_Unique.csv`            | Cleaned dataset used to build the dashboard         |
-| `Task 8.pbix`                          | Power BI project file with all visualizations       |
-| `TASK_8_DA.pdf`                        | Internship task description for Task 8              |
-| `Summary.pdf`                           | Well-written insights extracted from the dashboard  |
-| `README.md`                            | Overview and documentation of the project           |
-
----
 
 ## ✅ Dashboard Features
 
