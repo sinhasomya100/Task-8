@@ -1,5 +1,5 @@
-# 📊 Digital Sales Dashboard – Power BI  
-📁 Project: Internship Task 8 – Sales Dashboard
+# 📊 Task 8 – Interactive Digital Sales Dashboard — MarketPulse | Power BI Project
+
 
 ## 📁 Files in this Repository
 
