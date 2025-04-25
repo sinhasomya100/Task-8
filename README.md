@@ -106,6 +106,49 @@ Region and category slicers allow users to drill down and analyze performance by
 4. Review the insights and interview answers in the supporting documents.
 
 ---
+Interview Questions & Answers 
+1. What does a dashboard do? 
+A dashboard visually summarizes key data metrics in one place, helping users quickly understand 
+patterns, trends, and insights. My dashboard highlights sales performance across products, regions, 
+and categories to support business decisions.
+
+2. How do you choose the right chart? 
+The chart type depends on the data: 
+• I used a line chart for monthly sales to show trends over time. 
+• A bar chart to compare sales across regions. 
+• A donut chart for category-wise sales distribution. This ensures clarity and makes patterns 
+easier to spot.
+
+3. What is a slicer/filter? 
+A slicer is an interactive tool that allows users to filter data based on specific fields. In my dashboard, 
+I used a Region slicer so users can view how different areas performed individually.
+
+4. Why do we use KPIs? 
+KPIs (Key Performance Indicators) help track progress toward business goals. Although I didn’t 
+include a specific KPI card, the visuals show top-performing products, peak sales months, and 
+regional contributions, which act as performance indicators.
+
+5. What did your dashboard show about sales? 
+It showed that: 
+• E-books and budgeting tools were the top-selling products. 
+• December 2024 had the highest sales, followed by a steady decline. 
+• UK and Canada led in regional sales. 
+• Health & Wellness and Productivity were the most profitable categories.
+
+6. How do you make a dashboard look clean? 
+I used: 
+• Consistent colors and fonts 
+• Minimal visual clutter 
+• Proper titles and labels 
+• Balanced layout of charts and slicers 
+This helps users focus on insights, not just visuals.
+
+7. Did you clean the data before starting? 
+Yes. I ensured: 
+• Dates were in the right format 
+• Nulls or duplicates were removed 
+• Sales and profit fields were numeric 
+This prepared the data for accurate analysis and visualization. 
 
 ## 📬 Feedback & Contributions
 
