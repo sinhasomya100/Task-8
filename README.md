@@ -24,6 +24,8 @@ To help stakeholders and business teams understand digital product sales perform
 
 Created as part of the data analyst internship project, this **interactive Power BI dashboard** provides a comprehensive overview of digital product sales, customer trends, and category-wise performance.
 
+---
+
 ## 📈 Key Insights
 
 - **Top Products:**  
@@ -40,10 +42,6 @@ Created as part of the data analyst internship project, this **interactive Power
 
 ---
 
-
-
-
----
 
 ## 📌 Project Summary
 
