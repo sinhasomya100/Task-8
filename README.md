@@ -24,7 +24,23 @@ To help stakeholders and business teams understand digital product sales perform
 
 Created as part of the data analyst internship project, this **interactive Power BI dashboard** provides a comprehensive overview of digital product sales, customer trends, and category-wise performance.
 
-![image](https://github.com/user-attachments/assets/b258694a-fae4-4964-9a31-3e992adef1d3)
+## 📈 Key Insights
+
+- **Top Products:**  
+  E-book: AI for Beginners and Budget Tracker Tool led with the highest revenue—highlighting demand for self-learning and personal finance tools.
+
+- **Sales Peak:**  
+  May 2024 recorded the highest monthly sales (₹1492), with a gradual decline—potentially seasonal trends or campaign impact.
+
+- **Regional Performance:**  
+  The UK and Canada were the top-performing regions, each generating more than ₹2200.
+
+- **Category Trends:**  
+  Health & Wellness, Productivity, and Finance categories dominated, indicating a preference toward personal growth and productivity.
+
+---
+
+
 
 
 ---
@@ -77,21 +93,7 @@ Region and category slicers allow users to drill down and analyze performance by
 
 ---
 
-## 📈 Key Insights
 
-- **Top Products:**  
-  E-book: AI for Beginners and Budget Tracker Tool led with the highest revenue—highlighting demand for self-learning and personal finance tools.
-
-- **Sales Peak:**  
-  May 2024 recorded the highest monthly sales (₹1492), with a gradual decline—potentially seasonal trends or campaign impact.
-
-- **Regional Performance:**  
-  The UK and Canada were the top-performing regions, each generating more than ₹2200.
-
-- **Category Trends:**  
-  Health & Wellness, Productivity, and Finance categories dominated, indicating a preference toward personal growth and productivity.
-
----
 
 ## 🔧 Tools & Technologies Used
 
