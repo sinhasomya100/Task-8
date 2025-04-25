@@ -49,7 +49,7 @@ It enables users to:
 | `Task 8.pbix`                          | Power BI project file with all visualizations       |
 | `TASK_8_DA.pdf`                        | Internship task description for Task 8              |
 | `Interview Ques and Answers Task 8.pdf` | Prepared interview answers related to dashboarding |
-| `Insights from the Dashboard.docx`     | Well-written insights extracted from the dashboard  |
+| `Summary.pdf`                           | Well-written insights extracted from the dashboard  |
 | `README.md`                            | Overview and documentation of the project           |
 
 ---
