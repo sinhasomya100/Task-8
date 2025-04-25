@@ -1,7 +1,6 @@
 # 📊 Digital Sales Dashboard – Power BI  
 📁 Project: Internship Task 8 – Sales Dashboard
 ![image](https://github.com/user-attachments/assets/a59fc084-70f0-4543-9634-ac3e03f7c0ef)
-![image](https://github.com/user-attachments/assets/9b700e6d-fd10-4575-9473-450ec073ca5e)
 
 
 
@@ -12,6 +11,9 @@
 To help stakeholders and business teams understand digital product sales performance, identify best-selling products, and track trends across time, region, and category.
 
 Created as part of the data analyst internship project, this **interactive Power BI dashboard** provides a comprehensive overview of digital product sales, customer trends, and category-wise performance.
+
+![image](https://github.com/user-attachments/assets/b258694a-fae4-4964-9a31-3e992adef1d3)
+
 
 ---
 
