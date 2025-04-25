@@ -48,7 +48,6 @@ It enables users to:
 | `Digital_Sales_Unique.csv`            | Cleaned dataset used to build the dashboard         |
 | `Task 8.pbix`                          | Power BI project file with all visualizations       |
 | `TASK_8_DA.pdf`                        | Internship task description for Task 8              |
-| `Interview Ques and Answers Task 8.pdf` | Prepared interview answers related to dashboarding |
 | `Summary.pdf`                           | Well-written insights extracted from the dashboard  |
 | `README.md`                            | Overview and documentation of the project           |
 
